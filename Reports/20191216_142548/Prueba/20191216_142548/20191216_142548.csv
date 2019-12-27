@@ -1,0 +1,58 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Prueba,Chrome 78.0.3904.108,,,2019-12-16 14:25:56,2019-12-16 14:28:57,"3m - 1,270s",PASSED
+,,,,,,,
+Test Cases/Avaluos/QA,Chrome 78.0.3904.108,,,2019-12-16 14:25:57,2019-12-16 14:26:40,"43,510s",PASSED
+"openBrowser("""")",Chrome 78.0.3904.108,,,2019-12-16 14:25:58,2019-12-16 14:26:07,"8,744s",PASSED
+maximizeWindow(),Chrome 78.0.3904.108,,,2019-12-16 14:26:07,2019-12-16 14:26:11,"4,195s",PASSED
+"navigateToUrl(""https://rv.sitioweb.doctusdev.com/avaluos"")",Chrome 78.0.3904.108,,,2019-12-16 14:26:11,2019-12-16 14:26:30,"19,534s",PASSED
+"setText(findTestObject(""Page_Iniciar Sesin/input_Usuario_UserName""), ""eseguro_c"")",Chrome 78.0.3904.108,,,2019-12-16 14:26:30,2019-12-16 14:26:31,"0,660s",PASSED
+"setEncryptedText(findTestObject(""Page_Iniciar Sesin/input_Contrasea_Password""), ""nb2Oiqk0V9vLY3/cKD33Cw=="")",Chrome 78.0.3904.108,,,2019-12-16 14:26:31,2019-12-16 14:26:31,"0,551s",PASSED
+"click(findTestObject(""Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default""))",Chrome 78.0.3904.108,,,2019-12-16 14:26:31,2019-12-16 14:26:40,"8,895s",PASSED
+,,,,,,,
+Test Cases/Avaluos/Test_avaluos,Chrome 78.0.3904.108,,,2019-12-16 14:26:40,2019-12-16 14:26:54,"13,672s",PASSED
+"openBrowser("""")",Chrome 78.0.3904.108,,,2019-12-16 14:26:41,2019-12-16 14:26:47,"6,022s",PASSED
+maximizeWindow(),Chrome 78.0.3904.108,,,2019-12-16 14:26:47,2019-12-16 14:26:51,"4,165s",PASSED
+"navigateToUrl(""https://rv.sitioweb.doctusdev.com/avaluos"")",Chrome 78.0.3904.108,,,2019-12-16 14:26:51,2019-12-16 14:26:52,"0,909s",PASSED
+"setText(findTestObject(""Page_Iniciar Sesin/input_Usuario_UserName""), ""eseguro_c"")",Chrome 78.0.3904.108,,,2019-12-16 14:26:52,2019-12-16 14:26:53,"0,425s",PASSED
+"setEncryptedText(findTestObject(""Page_Iniciar Sesin/input_Contrasea_Password""), ""nb2Oiqk0V9vLY3/cKD33Cw=="")",Chrome 78.0.3904.108,,,2019-12-16 14:26:53,2019-12-16 14:26:53,"0,388s",PASSED
+"click(findTestObject(""Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default""))",Chrome 78.0.3904.108,,,2019-12-16 14:26:53,2019-12-16 14:26:54,"1,049s",PASSED
+,,,,,,,
+Test Cases/Calificar/Calificacion,Chrome 78.0.3904.108,,,2019-12-16 14:26:54,2019-12-16 14:27:08,"13,598s",PASSED
+"openBrowser("""")",Chrome 78.0.3904.108,,,2019-12-16 14:26:54,2019-12-16 14:27:00,"5,923s",PASSED
+maximizeWindow(),Chrome 78.0.3904.108,,,2019-12-16 14:27:00,2019-12-16 14:27:04,"4,128s",PASSED
+"navigateToUrl(""https://rv.sitioweb.doctusdev.com/admin/appraiserrating/create/53"")",Chrome 78.0.3904.108,,,2019-12-16 14:27:04,2019-12-16 14:27:05,"0,784s",PASSED
+"setText(findTestObject(""Object Repository/Calificar/Page_Iniciar Sesin/input_Usuario_UserName""), ""admin.doctus"")",Chrome 78.0.3904.108,,,2019-12-16 14:27:05,2019-12-16 14:27:06,"0,575s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Calificar/Page_Iniciar Sesin/input_Contrasea_Password""), ""nUksuytygmHzOQvtx2lVJQ=="")",Chrome 78.0.3904.108,,,2019-12-16 14:27:06,2019-12-16 14:27:06,"0,406s",PASSED
+"click(findTestObject(""Object Repository/Calificar/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default""))",Chrome 78.0.3904.108,,,2019-12-16 14:27:06,2019-12-16 14:27:08,"1,531s",PASSED
+,,,,,,,
+Test Cases/RegistroUsuarios/RegistroUsuarios,Chrome 78.0.3904.108,,,2019-12-16 14:27:08,2019-12-16 14:27:22,"14,050s",PASSED
+"openBrowser("""")",Chrome 78.0.3904.108,,,2019-12-16 14:27:08,2019-12-16 14:27:14,"5,796s",PASSED
+maximizeWindow(),Chrome 78.0.3904.108,,,2019-12-16 14:27:14,2019-12-16 14:27:18,"4,147s",PASSED
+"navigateToUrl(""https://rv.sitioweb.doctusdev.com/admin"")",Chrome 78.0.3904.108,,,2019-12-16 14:27:18,2019-12-16 14:27:19,"1,417s",PASSED
+"setText(findTestObject(""Object Repository/Page_Iniciar Sesin/input_Usuario_UserName""), ""wotalvaro"")",Chrome 78.0.3904.108,,,2019-12-16 14:27:19,2019-12-16 14:27:20,"0,429s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Iniciar Sesin/input_Contrasea_Password""), ""aeHFOx8jV/A="")",Chrome 78.0.3904.108,,,2019-12-16 14:27:20,2019-12-16 14:27:20,"0,412s",PASSED
+"click(findTestObject(""Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default""))",Chrome 78.0.3904.108,,,2019-12-16 14:27:20,2019-12-16 14:27:22,"1,649s",PASSED
+,,,,,,,
+Test Cases/RVInmobiliaria,Chrome 78.0.3904.108,,,2019-12-16 14:27:22,2019-12-16 14:28:42,"1m - 20,450s",PASSED
+"openBrowser("""")",Chrome 78.0.3904.108,,,2019-12-16 14:27:22,2019-12-16 14:27:28,"5,762s",PASSED
+"navigateToUrl(""https://rv.sitioweb.doctusdev.com/"")",Chrome 78.0.3904.108,,,2019-12-16 14:27:28,2019-12-16 14:27:36,"8,455s",PASSED
+"click(findTestObject(""Object Repository/Page_RV Inmobiliaria/a_INMUEBLES (1)""))",Chrome 78.0.3904.108,,,2019-12-16 14:27:36,2019-12-16 14:28:07,"30,820s",PASSED
+"click(findTestObject(""Page_Inmuebles/a_RV INMOBILIARIA""))",Chrome 78.0.3904.108,,,2019-12-16 14:28:07,2019-12-16 14:28:28,"20,717s",PASSED
+"click(findTestObject(""Page_Quines somos/a_SERVICIOS EN LNEA""))",Chrome 78.0.3904.108,,,2019-12-16 14:28:28,2019-12-16 14:28:28,"0,556s",PASSED
+"click(findTestObject(""Page_Quines somos/a_PORTAL CLIENTES""))",Chrome 78.0.3904.108,,,2019-12-16 14:28:28,2019-12-16 14:28:31,"2,343s",PASSED
+"click(findTestObject(""Page_Portal Clientes/a_RV COMMERCIAL""))",Chrome 78.0.3904.108,,,2019-12-16 14:28:31,2019-12-16 14:28:32,"1,246s",PASSED
+"click(findTestObject(""Page_Portal Clientes/a_SOLUCIONES CORPORATIVAS""))",Chrome 78.0.3904.108,,,2019-12-16 14:28:32,2019-12-16 14:28:34,"2,028s",PASSED
+"click(findTestObject(""Page_Soluciones corporativas/a_INSPIRACIN""))",Chrome 78.0.3904.108,,,2019-12-16 14:28:34,2019-12-16 14:28:37,"3,182s",PASSED
+"click(findTestObject(""Page_Inspiracin/a_CONTACTO""))",Chrome 78.0.3904.108,,,2019-12-16 14:28:37,2019-12-16 14:28:39,"1,742s",PASSED
+"click(findTestObject(""Object Repository/Page_RV Inmobiliaria/a_INMUEBLES (1)""))",Chrome 78.0.3904.108,,,2019-12-16 14:28:39,2019-12-16 14:28:42,"3,411s",PASSED
+,,,,,,,
+Test Cases/RvInmobiliariaAdmin/RvInmobiliariaAdmin,Chrome 78.0.3904.108,,,2019-12-16 14:28:42,2019-12-16 14:28:57,"15,200s",PASSED
+"openBrowser("""")",Chrome 78.0.3904.108,,,2019-12-16 14:28:42,2019-12-16 14:28:48,"5,848s",PASSED
+maximizeWindow(),Chrome 78.0.3904.108,,,2019-12-16 14:28:48,2019-12-16 14:28:52,"4,030s",PASSED
+"navigateToUrl(""https://rv.sitioweb.doctusdev.com/admin"")",Chrome 78.0.3904.108,,,2019-12-16 14:28:52,2019-12-16 14:28:54,"1,247s",PASSED
+"setText(findTestObject(""Object Repository/Page_Iniciar Sesin/input_Usuario_UserName""), ""wotalvaro"")",Chrome 78.0.3904.108,,,2019-12-16 14:28:54,2019-12-16 14:28:54,"0,496s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Iniciar Sesin/input_Contrasea_Password""), ""aeHFOx8jV/A="")",Chrome 78.0.3904.108,,,2019-12-16 14:28:54,2019-12-16 14:28:54,"0,393s",PASSED
+"click(findTestObject(""Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default""))",Chrome 78.0.3904.108,,,2019-12-16 14:28:54,2019-12-16 14:28:56,"1,142s",PASSED
+"click(findTestObject(""Object Repository/Page_ADMIN - Bienvenido/a_wotalvaro""))",Chrome 78.0.3904.108,,,2019-12-16 14:28:56,2019-12-16 14:28:56,"0,371s",PASSED
+"click(findTestObject(""Object Repository/Page_ADMIN - Bienvenido/a_Cerrar Sesin""))",Chrome 78.0.3904.108,,,2019-12-16 14:28:56,2019-12-16 14:28:57,"0,829s",PASSED
+closeBrowser(),Chrome 78.0.3904.108,,,2019-12-16 14:28:57,2019-12-16 14:28:57,"0,640s",PASSED

@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PruebaTest,Firefox 70.0,,,2019-12-16 16:01:22,2019-12-16 16:01:43,"20,238s",PASSED
+,,,,,,,
+Test Cases/Avaluos/Test_avaluos,Firefox 70.0,,,2019-12-16 16:01:23,2019-12-16 16:01:43,"20,003s",PASSED
+"openBrowser("""")",Firefox 70.0,,,2019-12-16 16:01:23,2019-12-16 16:01:28,"5,185s",PASSED
+maximizeWindow(),Firefox 70.0,,,2019-12-16 16:01:28,2019-12-16 16:01:28,"0,027s",PASSED
+"navigateToUrl(""https://rv.sitioweb.doctusdev.com/avaluos"")",Firefox 70.0,,,2019-12-16 16:01:28,2019-12-16 16:01:36,"7,810s",PASSED
+"setText(findTestObject(""Page_Iniciar Sesin/input_Usuario_UserName""), ""eseguro_c"")",Firefox 70.0,,,2019-12-16 16:01:36,2019-12-16 16:01:37,"0,413s",PASSED
+"setEncryptedText(findTestObject(""Page_Iniciar Sesin/input_Contrasea_Password""), ""nb2Oiqk0V9vLY3/cKD33Cw=="")",Firefox 70.0,,,2019-12-16 16:01:37,2019-12-16 16:01:37,"0,398s",PASSED
+"click(findTestObject(""Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default""))",Firefox 70.0,,,2019-12-16 16:01:37,2019-12-16 16:01:43,"5,668s",PASSED

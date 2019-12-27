@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Calificacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7bcff12f-7e89-4b98-9768-e2db5d399bda</testCaseGuid>
+   <variable>
+      <defaultValue>'https://rv.sitioweb.doctusdev.com/admin/appraiserrating/create/53'</defaultValue>
+      <description></description>
+      <id>406bdab7-d9cf-4ce0-8790-9fdbd78f7081</id>
+      <masked>true</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1735c729-e2ed-4355-a816-0baf7a51ab07</id>
+      <masked>false</masked>
+      <name>Calificacion</name>
+   </variable>
+</TestCaseEntity>

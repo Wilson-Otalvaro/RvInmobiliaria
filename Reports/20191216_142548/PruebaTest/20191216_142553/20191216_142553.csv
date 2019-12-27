@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PruebaTest,Chrome 78.0.3904.108,,,2019-12-16 14:25:56,2019-12-16 14:26:40,"44,244s",PASSED
+,,,,,,,
+Test Cases/Avaluos/Test_avaluos,Chrome 78.0.3904.108,,,2019-12-16 14:25:57,2019-12-16 14:26:40,"43,487s",PASSED
+"openBrowser("""")",Chrome 78.0.3904.108,,,2019-12-16 14:25:58,2019-12-16 14:26:07,"8,481s",PASSED
+maximizeWindow(),Chrome 78.0.3904.108,,,2019-12-16 14:26:07,2019-12-16 14:26:11,"4,173s",PASSED
+"navigateToUrl(""https://rv.sitioweb.doctusdev.com/avaluos"")",Chrome 78.0.3904.108,,,2019-12-16 14:26:11,2019-12-16 14:26:30,"19,564s",PASSED
+"setText(findTestObject(""Page_Iniciar Sesin/input_Usuario_UserName""), ""eseguro_c"")",Chrome 78.0.3904.108,,,2019-12-16 14:26:30,2019-12-16 14:26:31,"0,642s",PASSED
+"setEncryptedText(findTestObject(""Page_Iniciar Sesin/input_Contrasea_Password""), ""nb2Oiqk0V9vLY3/cKD33Cw=="")",Chrome 78.0.3904.108,,,2019-12-16 14:26:31,2019-12-16 14:26:31,"0,536s",PASSED
+"click(findTestObject(""Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default""))",Chrome 78.0.3904.108,,,2019-12-16 14:26:31,2019-12-16 14:26:40,"8,929s",PASSED

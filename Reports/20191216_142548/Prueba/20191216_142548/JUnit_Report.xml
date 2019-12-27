@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Prueba" time="181.792" tests="6" failures="0" errors="0">
+   <testsuite name="Prueba" tests="6" failures="0" errors="0" time="181.792" timestamp="2019-12-16 14:25:56" hostname="wilson.otalvaro - Doctus-0080.intranet.soludoctus.com" id="Test Suites/Prueba">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Pruebaskatalon\\Rv Inmobiliaria\\RvInmobiliariaRecord\\RvInmobiliariaRecord\\Reports\\20191216_142548\\Prueba\\20191216_142548"/>
+         <property name="logFiles" value="C:\\Pruebaskatalon\\Rv Inmobiliaria\\RvInmobiliariaRecord\\RvInmobiliariaRecord\\Reports\\20191216_142548\\Prueba\\20191216_142548\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="wilson.otalvaro - Doctus-0080.intranet.soludoctus.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.1.2.1"/>
+         <property name="browser" value="Chrome 78.0.3904.108"/>
+         <property name="hostAddress" value="192.168.46.2"/>
+         <property name="sessionId" value="bfb4f3d2fd55508b960ed7e335c0e550"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Avaluos/QA" time="43.51" classname="Test Cases/Avaluos/QA" status="PASSED">
+         <system-out><![CDATA[2019-12-16 14:25:57 - [TEST_CASE][PASSED] - Test Cases/Avaluos/QA: Test Cases/Avaluos/QA
+
+2019-12-16 14:25:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-12-16 14:25:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-12-16 14:25:59 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-12-16 14:26:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-12-16 14:26:07 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-12-16 14:26:11 - [MESSAGE][PASSED] - Current window maximized
+
+2019-12-16 14:26:11 - [TEST_STEP][PASSED] - navigateToUrl("https://rv.sitioweb.doctusdev.com/avaluos"): Navigate to 'https://rv.sitioweb.doctusdev.com/avaluos' successfully
+
+2019-12-16 14:26:30 - [MESSAGE][PASSED] - Navigate to 'https://rv.sitioweb.doctusdev.com/avaluos' successfully
+
+2019-12-16 14:26:30 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Iniciar Sesin/input_Usuario_UserName"), "eseguro_c"): Text 'eseguro_c' is set on object 'Object Repository/Page_Iniciar Sesin/input_Usuario_UserName'
+
+2019-12-16 14:26:31 - [MESSAGE][PASSED] - Text 'eseguro_c' is set on object 'Object Repository/Page_Iniciar Sesin/input_Usuario_UserName'
+
+2019-12-16 14:26:31 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Iniciar Sesin/input_Contrasea_Password"), "nb2Oiqk0V9vLY3/cKD33Cw=="): Text ****** has been set on object 'Object Repository/Page_Iniciar Sesin/input_Contrasea_Password'
+
+2019-12-16 14:26:31 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Iniciar Sesin/input_Contrasea_Password'
+
+2019-12-16 14:26:31 - [TEST_STEP][PASSED] - click(findTestObject("Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default")): Object: 'Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default' is clicked on
+
+2019-12-16 14:26:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Avaluos/Test_avaluos" time="13.672" classname="Test Cases/Avaluos/Test_avaluos" status="PASSED">
+         <system-out><![CDATA[2019-12-16 14:26:40 - [TEST_CASE][PASSED] - Test Cases/Avaluos/Test_avaluos: Test Cases/Avaluos/Test_avaluos
+
+2019-12-16 14:26:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-12-16 14:26:41 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-12-16 14:26:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-12-16 14:26:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-12-16 14:26:47 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-12-16 14:26:51 - [MESSAGE][PASSED] - Current window maximized
+
+2019-12-16 14:26:51 - [TEST_STEP][PASSED] - navigateToUrl("https://rv.sitioweb.doctusdev.com/avaluos"): Navigate to 'https://rv.sitioweb.doctusdev.com/avaluos' successfully
+
+2019-12-16 14:26:52 - [MESSAGE][PASSED] - Navigate to 'https://rv.sitioweb.doctusdev.com/avaluos' successfully
+
+2019-12-16 14:26:52 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Iniciar Sesin/input_Usuario_UserName"), "eseguro_c"): Text 'eseguro_c' is set on object 'Object Repository/Page_Iniciar Sesin/input_Usuario_UserName'
+
+2019-12-16 14:26:53 - [MESSAGE][PASSED] - Text 'eseguro_c' is set on object 'Object Repository/Page_Iniciar Sesin/input_Usuario_UserName'
+
+2019-12-16 14:26:53 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Iniciar Sesin/input_Contrasea_Password"), "nb2Oiqk0V9vLY3/cKD33Cw=="): Text ****** has been set on object 'Object Repository/Page_Iniciar Sesin/input_Contrasea_Password'
+
+2019-12-16 14:26:53 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Iniciar Sesin/input_Contrasea_Password'
+
+2019-12-16 14:26:53 - [TEST_STEP][PASSED] - click(findTestObject("Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default")): Object: 'Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default' is clicked on
+
+2019-12-16 14:26:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Calificar/Calificacion" time="13.598" classname="Test Cases/Calificar/Calificacion" status="PASSED">
+         <system-out><![CDATA[2019-12-16 14:26:54 - [TEST_CASE][PASSED] - Test Cases/Calificar/Calificacion: Test Cases/Calificar/Calificacion
+
+2019-12-16 14:26:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-12-16 14:26:54 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-12-16 14:26:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-12-16 14:27:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-12-16 14:27:00 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-12-16 14:27:04 - [MESSAGE][PASSED] - Current window maximized
+
+2019-12-16 14:27:04 - [TEST_STEP][PASSED] - navigateToUrl("https://rv.sitioweb.doctusdev.com/admin/appraiserrating/create/53"): Navigate to 'https://rv.sitioweb.doctusdev.com/admin/appraiserrating/create/53' successfully
+
+2019-12-16 14:27:05 - [MESSAGE][PASSED] - Navigate to 'https://rv.sitioweb.doctusdev.com/admin/appraiserrating/create/53' successfully
+
+2019-12-16 14:27:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Calificar/Page_Iniciar Sesin/input_Usuario_UserName"), "admin.doctus"): Text 'admin.doctus' is set on object 'Object Repository/Calificar/Page_Iniciar Sesin/input_Usuario_UserName'
+
+2019-12-16 14:27:06 - [MESSAGE][PASSED] - Text 'admin.doctus' is set on object 'Object Repository/Calificar/Page_Iniciar Sesin/input_Usuario_UserName'
+
+2019-12-16 14:27:06 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Calificar/Page_Iniciar Sesin/input_Contrasea_Password"), "nUksuytygmHzOQvtx2lVJQ=="): Text ****** has been set on object 'Object Repository/Calificar/Page_Iniciar Sesin/input_Contrasea_Password'
+
+2019-12-16 14:27:06 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Calificar/Page_Iniciar Sesin/input_Contrasea_Password'
+
+2019-12-16 14:27:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Calificar/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default")): Object: 'Object Repository/Calificar/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default' is clicked on
+
+2019-12-16 14:27:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Calificar/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/RegistroUsuarios/RegistroUsuarios" time="14.05" classname="Test Cases/RegistroUsuarios/RegistroUsuarios" status="PASSED">
+         <system-out><![CDATA[2019-12-16 14:27:08 - [TEST_CASE][PASSED] - Test Cases/RegistroUsuarios/RegistroUsuarios: Test Cases/RegistroUsuarios/RegistroUsuarios
+
+2019-12-16 14:27:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-12-16 14:27:08 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-12-16 14:27:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-12-16 14:27:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-12-16 14:27:14 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-12-16 14:27:18 - [MESSAGE][PASSED] - Current window maximized
+
+2019-12-16 14:27:18 - [TEST_STEP][PASSED] - navigateToUrl("https://rv.sitioweb.doctusdev.com/admin"): Navigate to 'https://rv.sitioweb.doctusdev.com/admin' successfully
+
+2019-12-16 14:27:19 - [MESSAGE][PASSED] - Navigate to 'https://rv.sitioweb.doctusdev.com/admin' successfully
+
+2019-12-16 14:27:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Iniciar Sesin/input_Usuario_UserName"), "wotalvaro"): Text 'wotalvaro' is set on object 'Object Repository/Page_Iniciar Sesin/input_Usuario_UserName'
+
+2019-12-16 14:27:20 - [MESSAGE][PASSED] - Text 'wotalvaro' is set on object 'Object Repository/Page_Iniciar Sesin/input_Usuario_UserName'
+
+2019-12-16 14:27:20 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Iniciar Sesin/input_Contrasea_Password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/Page_Iniciar Sesin/input_Contrasea_Password'
+
+2019-12-16 14:27:20 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Iniciar Sesin/input_Contrasea_Password'
+
+2019-12-16 14:27:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default")): Object: 'Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default' is clicked on
+
+2019-12-16 14:27:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/RVInmobiliaria" time="80.45" classname="Test Cases/RVInmobiliaria" status="PASSED">
+         <system-out><![CDATA[2019-12-16 14:27:22 - [TEST_CASE][PASSED] - Test Cases/RVInmobiliaria: Test Cases/RVInmobiliaria
+
+2019-12-16 14:27:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-12-16 14:27:22 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-12-16 14:27:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-12-16 14:27:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-12-16 14:27:28 - [TEST_STEP][PASSED] - navigateToUrl("https://rv.sitioweb.doctusdev.com/"): Navigate to 'https://rv.sitioweb.doctusdev.com/' successfully
+
+2019-12-16 14:27:36 - [MESSAGE][PASSED] - Navigate to 'https://rv.sitioweb.doctusdev.com/' successfully
+
+2019-12-16 14:27:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_RV Inmobiliaria/a_INMUEBLES (1)")): Object: 'Object Repository/Page_RV Inmobiliaria/a_INMUEBLES (1)' is clicked on
+
+2019-12-16 14:27:37 - [MESSAGE][ERROR] - move target out of bounds
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DOCTUS-0080', ip: '192.168.46.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WILSON~1.OTA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:63376}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d8366c9c369876c1e19afe90fc946656
+
+2019-12-16 14:28:07 - [MESSAGE][ERROR] - move target out of bounds
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DOCTUS-0080', ip: '192.168.46.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WILSON~1.OTA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:63376}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d8366c9c369876c1e19afe90fc946656
+
+2019-12-16 14:28:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_RV Inmobiliaria/a_INMUEBLES (1)' is clicked on
+
+2019-12-16 14:28:07 - [TEST_STEP][PASSED] - click(findTestObject("Page_Inmuebles/a_RV INMOBILIARIA")): Object: 'Object Repository/Page_Inmuebles/a_RV INMOBILIARIA' is clicked on
+
+2019-12-16 14:28:07 - [MESSAGE][ERROR] - move target out of bounds
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DOCTUS-0080', ip: '192.168.46.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WILSON~1.OTA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:63376}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d8366c9c369876c1e19afe90fc946656
+
+2019-12-16 14:28:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Inmuebles/a_RV INMOBILIARIA' is clicked on
+
+2019-12-16 14:28:28 - [TEST_STEP][PASSED] - click(findTestObject("Page_Quines somos/a_SERVICIOS EN LNEA")): Object: 'Object Repository/Page_Quines somos/a_SERVICIOS EN LNEA' is clicked on
+
+2019-12-16 14:28:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Quines somos/a_SERVICIOS EN LNEA' is clicked on
+
+2019-12-16 14:28:28 - [TEST_STEP][PASSED] - click(findTestObject("Page_Quines somos/a_PORTAL CLIENTES")): Object: 'Object Repository/Page_Quines somos/a_PORTAL CLIENTES' is clicked on
+
+2019-12-16 14:28:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Quines somos/a_PORTAL CLIENTES' is clicked on
+
+2019-12-16 14:28:31 - [TEST_STEP][PASSED] - click(findTestObject("Page_Portal Clientes/a_RV COMMERCIAL")): Object: 'Object Repository/Page_Portal Clientes/a_RV COMMERCIAL' is clicked on
+
+2019-12-16 14:28:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Portal Clientes/a_RV COMMERCIAL' is clicked on
+
+2019-12-16 14:28:32 - [TEST_STEP][PASSED] - click(findTestObject("Page_Portal Clientes/a_SOLUCIONES CORPORATIVAS")): Object: 'Object Repository/Page_Portal Clientes/a_SOLUCIONES CORPORATIVAS' is clicked on
+
+2019-12-16 14:28:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Portal Clientes/a_SOLUCIONES CORPORATIVAS' is clicked on
+
+2019-12-16 14:28:34 - [TEST_STEP][PASSED] - click(findTestObject("Page_Soluciones corporativas/a_INSPIRACIN")): Object: 'Object Repository/Page_Soluciones corporativas/a_INSPIRACIN' is clicked on
+
+2019-12-16 14:28:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Soluciones corporativas/a_INSPIRACIN' is clicked on
+
+2019-12-16 14:28:37 - [TEST_STEP][PASSED] - click(findTestObject("Page_Inspiracin/a_CONTACTO")): Object: 'Object Repository/Page_Inspiracin/a_CONTACTO' is clicked on
+
+2019-12-16 14:28:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Inspiracin/a_CONTACTO' is clicked on
+
+2019-12-16 14:28:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_RV Inmobiliaria/a_INMUEBLES (1)")): Object: 'Object Repository/Page_RV Inmobiliaria/a_INMUEBLES (1)' is clicked on
+
+2019-12-16 14:28:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_RV Inmobiliaria/a_INMUEBLES (1)' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/RvInmobiliariaAdmin/RvInmobiliariaAdmin" time="15.2" classname="Test Cases/RvInmobiliariaAdmin/RvInmobiliariaAdmin" status="PASSED">
+         <system-out><![CDATA[2019-12-16 14:28:42 - [TEST_CASE][PASSED] - Test Cases/RvInmobiliariaAdmin/RvInmobiliariaAdmin: Test Cases/RvInmobiliariaAdmin/RvInmobiliariaAdmin
+
+2019-12-16 14:28:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-12-16 14:28:42 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-12-16 14:28:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-12-16 14:28:48 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-12-16 14:28:48 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-12-16 14:28:52 - [MESSAGE][PASSED] - Current window maximized
+
+2019-12-16 14:28:52 - [TEST_STEP][PASSED] - navigateToUrl("https://rv.sitioweb.doctusdev.com/admin"): Navigate to 'https://rv.sitioweb.doctusdev.com/admin' successfully
+
+2019-12-16 14:28:54 - [MESSAGE][PASSED] - Navigate to 'https://rv.sitioweb.doctusdev.com/admin' successfully
+
+2019-12-16 14:28:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Iniciar Sesin/input_Usuario_UserName"), "wotalvaro"): Text 'wotalvaro' is set on object 'Object Repository/Page_Iniciar Sesin/input_Usuario_UserName'
+
+2019-12-16 14:28:54 - [MESSAGE][PASSED] - Text 'wotalvaro' is set on object 'Object Repository/Page_Iniciar Sesin/input_Usuario_UserName'
+
+2019-12-16 14:28:54 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Iniciar Sesin/input_Contrasea_Password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/Page_Iniciar Sesin/input_Contrasea_Password'
+
+2019-12-16 14:28:54 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Iniciar Sesin/input_Contrasea_Password'
+
+2019-12-16 14:28:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default")): Object: 'Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default' is clicked on
+
+2019-12-16 14:28:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default' is clicked on
+
+2019-12-16 14:28:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_ADMIN - Bienvenido/a_wotalvaro")): Object: 'Object Repository/Page_ADMIN - Bienvenido/a_wotalvaro' is clicked on
+
+2019-12-16 14:28:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ADMIN - Bienvenido/a_wotalvaro' is clicked on
+
+2019-12-16 14:28:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_ADMIN - Bienvenido/a_Cerrar Sesin")): Object: 'Object Repository/Page_ADMIN - Bienvenido/a_Cerrar Sesin' is clicked on
+
+2019-12-16 14:28:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ADMIN - Bienvenido/a_Cerrar Sesin' is clicked on
+
+2019-12-16 14:28:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-12-16 14:28:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-12-16 14:25:56 - [TEST_SUITE][PASSED] - Prueba: Test Cases/RvInmobiliariaAdmin/RvInmobiliariaAdmin]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

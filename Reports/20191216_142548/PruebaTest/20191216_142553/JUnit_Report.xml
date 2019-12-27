@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PruebaTest" time="46.107" tests="1" failures="0" errors="0">
+   <testsuite name="PruebaTest" tests="1" failures="0" errors="0" time="46.107" timestamp="2019-12-16 14:25:56" hostname="wilson.otalvaro - Doctus-0080.intranet.soludoctus.com" id="Test Suites/PruebaTest">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Pruebaskatalon\\Rv Inmobiliaria\\RvInmobiliariaRecord\\RvInmobiliariaRecord\\Reports\\20191216_142548\\PruebaTest\\20191216_142553"/>
+         <property name="logFiles" value="C:\\Pruebaskatalon\\Rv Inmobiliaria\\RvInmobiliariaRecord\\RvInmobiliariaRecord\\Reports\\20191216_142548\\PruebaTest\\20191216_142553\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="wilson.otalvaro - Doctus-0080.intranet.soludoctus.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.1.2.1"/>
+         <property name="browser" value="Chrome 78.0.3904.108"/>
+         <property name="hostAddress" value="192.168.46.2"/>
+         <property name="sessionId" value="c53166ef1ede3bdb3520a847ffda0435"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Avaluos/Test_avaluos" time="43.487" classname="Test Cases/Avaluos/Test_avaluos" status="PASSED">
+         <system-out><![CDATA[2019-12-16 14:25:57 - [TEST_CASE][PASSED] - Test Cases/Avaluos/Test_avaluos: Test Cases/Avaluos/Test_avaluos
+
+2019-12-16 14:25:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-12-16 14:25:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-12-16 14:25:59 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-12-16 14:26:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-12-16 14:26:07 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-12-16 14:26:11 - [MESSAGE][PASSED] - Current window maximized
+
+2019-12-16 14:26:11 - [TEST_STEP][PASSED] - navigateToUrl("https://rv.sitioweb.doctusdev.com/avaluos"): Navigate to 'https://rv.sitioweb.doctusdev.com/avaluos' successfully
+
+2019-12-16 14:26:30 - [MESSAGE][PASSED] - Navigate to 'https://rv.sitioweb.doctusdev.com/avaluos' successfully
+
+2019-12-16 14:26:30 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Iniciar Sesin/input_Usuario_UserName"), "eseguro_c"): Text 'eseguro_c' is set on object 'Object Repository/Page_Iniciar Sesin/input_Usuario_UserName'
+
+2019-12-16 14:26:31 - [MESSAGE][PASSED] - Text 'eseguro_c' is set on object 'Object Repository/Page_Iniciar Sesin/input_Usuario_UserName'
+
+2019-12-16 14:26:31 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Iniciar Sesin/input_Contrasea_Password"), "nb2Oiqk0V9vLY3/cKD33Cw=="): Text ****** has been set on object 'Object Repository/Page_Iniciar Sesin/input_Contrasea_Password'
+
+2019-12-16 14:26:31 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Iniciar Sesin/input_Contrasea_Password'
+
+2019-12-16 14:26:31 - [TEST_STEP][PASSED] - click(findTestObject("Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default")): Object: 'Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default' is clicked on
+
+2019-12-16 14:26:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Iniciar Sesin/input_Olvid mi contrasea_btn btn-default' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-12-16 14:25:56 - [TEST_SUITE][PASSED] - PruebaTest: Test Cases/Avaluos/Test_avaluos]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
